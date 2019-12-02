@@ -1,7 +1,8 @@
 edades= [39,22]
 i=0
-while i<len(edades):			
+while i<(len(edades)):			
   if edades[i]<30:
-	print("goodbye")
+	  print("bye")
   else:
-  	return	
+  	print("hi")
+  i+=1

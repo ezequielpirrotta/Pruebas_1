@@ -1,0 +1,7 @@
+edades= [39,22]
+i=0
+while i<len(edades):			
+  if edades[i]<30:
+	print("goodbye")
+  else:
+  	return	

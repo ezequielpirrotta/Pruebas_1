@@ -32,7 +32,7 @@ class Aplicacion():
     
     
 def main():
-  mi_app = Aplicacion()
+  mi_app = Aplicacion().__init__()
   return 0
 
 if __name__ == '__main__':
